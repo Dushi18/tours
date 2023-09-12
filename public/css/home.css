@@ -1,0 +1,40 @@
+img{
+    border-radius: 20px;
+}
+div.w3-display-topmiddle{
+    border-radius: 10px;
+    margin: 5px;
+}
+div.w3-display-container{
+    width:20vw;
+}
+div.w3-row-padding{
+    margin: 10px;
+    padding: 10px;
+}
+div.w3-col{
+    padding:5px;
+    /* margin: 5px; */
+    transition: transform .2s; 
+}
+div.w3-col:hover{
+    transform: scale(1.2);
+    box-shadow: inset;
+    z-index: 10;
+}
+div.w3-col l3{
+    
+}
+
+/* .zoom {
+  padding: 50px;
+  background-color: green;
+  transition: transform .2s; /* Animation */
+  /* width: 200px;
+  height: 200px;
+  margin: 0 auto;
+} */
+
+/* .zoom:hover {
+  transform: scale(1.5); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+/* } */

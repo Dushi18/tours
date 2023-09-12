@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+body{
+	background-color: #C1C7D7;
+	font-family: 'Poppins', sans-serif;
+}
+.card{
+	width: 340px;
+	border: none;
+	border-radius: 12px;
+	position: relative;
+}
+
+img{
+	border-radius: 12px;
+}
+div.text-white{
+	position: absolute;
+	top: 55%;
+	left: 10%;
+	right: 10%;
+	font-size: 28px;
+}
+div.text-muted{
+	position: absolute;
+	top: 70%;
+	left: 10%;
+	right: 12%;
+	font-size: 14px;
+	color: #adb5bd!important;
+}
+div.justify-content-between{
+	position: absolute;
+	top: 79%;
+	left: 10%;
+	right: 10%;
+}
+.justify-content-between span{
+	padding-right: 10px;
+}
+.justify-content-between hr{
+	border-top: 2px solid #adb5bd;
+	width: 70px;
+}
+.justify-content-between hr:hover{
+	border-top: 2px solid #fff;
+	cursor: pointer;
+}
+hr.first{
+	border-top: 2px solid #fff;
+}
+.btn-primary{
+	background: #616BCC;
+	border: none;
+	border-radius: 7px;
+	padding: 15px;
+}
+.btn-primary:hover{
+	background: #616BCC;
+}
+.btn-primary:focus{
+	box-shadow: none;
+}
+@media screen and (max-width: 384px){
+	div.text-white{
+		position: absolute;
+		top: 50%;
+		line-height: 30px;
+}
+div.text-muted{
+	top: 65%;
+}
+.justify-content-between hr{
+	width: 40px;
+}
+}

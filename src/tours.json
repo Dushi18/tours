@@ -1,0 +1,74 @@
+ [{
+    "id": 1,
+    "tour_name": "DIVE VACATIONS UNDER WATER",
+    "location": "Andaman Nicobar",
+    "duration": "4 days & 3 Nights",
+    "price": "24,999 INR",
+    "ratings": "4.2",
+    "src": "https://cdn.experienceandamans.com/images/best-reef-in-andaman-for-scuba-diving.jpg", 
+    "description": "Scuba Diving is one of the most popular water sports activities in the world and Andaman Islands are not untouched by that. Besides the calm, peaceful beaches and delicious seafood, diving is what attracts a good chunk of visitors to the Isles. The underwater coastal belts surrounding Andamans is home to one of the densest ecosystem of coral reefs and formations. Most of the islands are enclosed by long stretches of reefs, usually several hundred meters wide and separated by the shore with shallow waters and complimented by volcanic lava hills that make the experience unique and hard to find anywhere else. The untouched, alive corals house some of the world most vibrant fishes and sea-dwellers which pop-out from the blue ocean and present a beautiful scene around the diver. Under the protection of the Andaman Administration, the corals and fish are abundant and often enclose the diver from all directions, which leaves the diver in awe and wonder. Experience one of the finest Scuba Diving experience in India, during your Andaman Visit."
+  }, {
+    "id": 2,
+    "tour_name": "PARAGLIDING IN BEAUTIFUL VALLEYS",
+    "location": "Bir Billing, Himachal Pradesh",
+    "duration": "3 days & 2 nights",
+    "price": "18,999 INR",
+    "ratings": "4.4", 
+    "src": "https://media1.thrillophilia.com/filestore/hxv6idn5pf8cw4bd6n27ao9uzqol_paragliding.jpg?w=576&h=650", 
+    "description": "If you want a taste of what paragliding can be, the Classic flight is your gateway. This 20-minute joy flight with an experienced pilot will take you from 2500m at billing top to 1400m at the landing site in Bir. Enjoy the experience in one of the best paragliding destinations of the world, offering unparalleled flying conditions and breathtaking views of the mountains and the valley. Lets up the game and double-up the airtime! If you want to do a little more and take a long ride, try our Prime flight. Our experienced pilot will take you soaring above the take off site, glide to a ridge nearby and land after an exciting 40 minutes. Fly with the crème de la crème, the very best flying experience with the very best pilots, and stay afloat from anywhere between 90 minutes to 120 minutes. Experience the sustained thermic flying like the eagles and the vultures"
+  }, {
+    "id": 3,
+    "tour_name": "HAR KI DUN TREK",
+    "location": "Gharwal Himalayas, Uttarakhand",
+    "duration": "7 days & 6 nights",
+    "price": "34,999 INR",
+    "ratings": "4.0", 
+    "src": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/61/60/3c/har-ki-dun-trekking-india.jpg?w=1200&h=1200&s=1", 
+    "description": "Har Ki Dun is a trek that needs no introduction. Trekkers have always trod upon these trails to witness the beautiful Swargarohini massif from Har Ki Dun. Yet we wanted to veer slightly off the beaten path. We wanted to show trekkers a side of the Har-Ki-Dun trek they rarely see. So we chose a route different from the regular trail, which includes terrific scenic beauty on the new route while retaining the ancient charm of the old route, at the heart of which still lies a journey towards the beautiful Swargarohini peaks. Allow us to take you through the new route, where some sections are among the best-kept secrets of this region. Take, for example, the enchanting woods of Boslow. The new route through Boslo winds through dense conifers and oaks in the shadow of the mountains before emerging into daylight. Snow patches glide into the forest from high above, sometimes cutting through the forest floor (though you must be early in the season to see this). It is a sight to behold."
+  },{
+    "id": 4,
+    "tour_name": "RIVER RAFTING",
+    "location": "Rishikesh, Uttarakhand",
+    "duration": "4 days & 3 night",
+    "price": "4,999 INR",
+    "ratings": "4.4",
+    "src": "https://media.istockphoto.com/id/1142877679/photo/young-people-enjoying-whitewater-river-rafting-in-river-ganges-rishikesh-india.jpg?s=612x612&w=0&k=20&c=sskxkTsmcseiloBTkv7UGTtb2ZjPTBi-q2aiY83zGXQ=", 
+    "description": "Rafting is a sport known to man of the most exciting and thrilling adventure. Those who have had the pleasure of rafting expeditions to ensure this. Rafting in turbulent waters is an experience that you will keep the rest of his life. In the foothills of the Himalayas, they serve as the perfect setting for Rafting in Rishikesh. If you have not had the experience of rafting in India, however, plan your next adventure holiday here to be removed from their daily lives, to be thrown into a world of thrills, chills and spills. You probably think that there is absolutely no way to extreme sports such as rafting can be fun at all. This is false, because all you need for an extreme sport like this is fun to be an expert to take control of all rafting. It is a fun place to take part in all the summer sports, when it's nice and warm and all you need is an activity related to the water to take temperatures down. It is also an exciting sport that many people can participate simultaneously. Friends and family can get together and everyone can have a brilliant day of fun."
+  }, {
+    "id": 5,
+    "tour_name": "BANARAS GHATS",
+    "location": "Spiritual Capital Of India",
+    "duration": "7 days & 6 nights",
+    "price": "7,899 INR",
+    "ratings": "3.9",
+    "src": "https://splendidvacationsindia.in/media/mod_jmslideshow/900x600_fill_Assi-Ghat--.jpg", 
+    "description": "Watching Evening Aarti Ceremony is certainly once in a lifetime experience. The spectacular event must be viewed from the Dasawamedh Ghat, where beautiful rituals unfold themselves in front of your eyes. Brass lamps of large sizes are used during this event, which is accompanied by chants and crowds of people waiting to pray. Visit at least an hour before the Aarti if you want to gather the experience at its best. At this time, you can witness how five elevated planks are placed at the edge of the steps of the Ghats and brass lamps are cleaned and readied for the occasion. It is also interesting to watch how priests don identical dhotis and kurta for prayer and Aarti ceremony. Those who wish to click pictures from their cameras should visit the Ghats in evening boats, as this will allow one to easily capture everything in attention."
+  }, {
+    "id": 6,
+    "tour_name": "LAKES & PALACES",
+    "location": "Udaipur, Rajasthan",
+    "duration": "6 days & 5 nights",
+    "price": "10,499 INR",
+    "ratings": "4.2",
+    "src": "https://www.fabhotels.com/blog/wp-content/uploads/2017/10/shutterstock_136794254-1024x728.jpg", 
+    "description": "Udaipur, also known as the City of Lakes, is one of the most visited tourist places in Rajasthan. Located around stunning water lakes and enveloped by the Aravalli Hills in all directions, Udaipur is known for its azure lakes, magnificent palaces, vibrant culture and delectable food. Along with being a must-visit destination, it is also one of the best places to experience luxury in India. Boating through the shimmering Lake Pichola is one of the most beautiful sights and highlights of every Udaipur trip. Also known as the Venice of the East, Udaipur is inarguably one of the most romantic cities in India. Visit its larger than life havelis and monuments, stroll through the bustling street markets, ride through one of the seven lakes of the city or relax in one of the extraordinary hotels, and you will discover the charm of Udaipur."
+  },
+   {
+    "id": 7,
+    "tour_name": "STAY IN TREE HOUSES",
+    "location": "Meghalaya",
+    "duration": "9 days & 8 nights",
+    "price": "14,899 INR",
+    "ratings": "4.2",
+    "src": "https://assets.traveltriangle.com/blog/wp-content/uploads/2017/10/57.jpg", 
+    "description": "Dream Catcher Plantation Resort, Kaivalyam Retreat Tree House, Vanya Tree House, Nature Zone Resort, Double Tree Villa, 7 Springs Plantation Resort, Ela Ecoland Nature Resort, Jungle Jive Tree House and many more. The alluring hill station of Munnar, situated in the state of Kerala is famous for its tea states, abundant greenery, rocky peaks, and the famous tree houses in Munnar. Home to many tea estates, the town it an important commercial center, in addition to wonderful houses for guests to settle in. These tree houses give the tourists a once in a lifetime experience. Situated amidst the stretching wilderness and plantations of the town, these places are a peaceful retreat for anyone who wants to escape the city life for some time. Munnar tree houses are known as 'Erumadam’ in the local language and built over tall sturdy trees looking at the green forests. "
+  }, {
+    "id": 8,
+    "tour_name": "WATERFALLS IN NORTH-EASTERN INDIA",
+    "location": "Meghalaya",
+    "duration":"10 days& 9 nights",
+    "price": "27,999 INR",
+    "ratings": "4.4", 
+    "src": "https://5.imimg.com/data5/NP/DG/QN/ANDROID-98039587/product-jpeg-500x500.jpg", 
+    "description": "There is no doubt that Meghalaya is one of our favourite places. Situated in the hills of the eastern sub-Himalayas, Meghalaya is one of the most beautiful states of India. In Sanskrit, Meghalaya translates into ‘abode of clouds’ and it is rightfully called so. Claimed to be one of the wettest places on the earth, Meghalaya sees the hide and seek played between the sun and rains. Surrounded by the Khasi, Jaintia and Garo Hills, Meghalaya offers simple and unspoiled beauty to its visitors. The state boasts of incredible natural beauty, cascading waterfalls, sparkling clean rivers, natural caves and a colourful cultural heritage. From the gorgeous waterfalls of Cherrapunjee to the clear waters of Umngot, Meghalaya is literally a place halfway between heaven and earth."
+  }]

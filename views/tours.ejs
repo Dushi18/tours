@@ -1,0 +1,29 @@
+<%- include('partials/head') %>
+<%- include('partials/header') %>
+<div class="card">
+    <h1><%=name%></h1>
+    <h2><%=location%></h2>
+    <div class="twoColumns">
+        <div class="left">
+          <img src=<%=src%> class="responsive">
+        </div>
+        <div class="right">
+            <p>
+                <%=description%>
+            </p>
+            <div class = "list">
+                <ul>
+                    <li><b>Location: </b><%=location%></li>
+                    <li><b>Duration: </b> <%=duration%></li>
+                    <li><b>Ratings: </b> <%=ratings%></li>
+                    <li><b>Price: </b><%=price%></li>
+                </ul>
+            </div>
+            <div>
+                <a href="/login/tour/<%=id%>/payment"><button> Book Now </button></a>
+            </div>
+        </div>
+      </div>
+</div>
+
+<%- include('partials/footer') %>
